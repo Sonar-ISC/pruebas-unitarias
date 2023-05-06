@@ -1,0 +1,19 @@
+{
+  "name": "talleres-sonar",
+  "version": "1.0.0",
+  "description": "Talleres del Semillero Sonar I.S.C.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Testing",
+    "Pruebas",
+    "Unitarias"
+  ],
+  "author": "MegaBarto",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
